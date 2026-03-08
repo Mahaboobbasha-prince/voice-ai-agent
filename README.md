@@ -23,3 +23,7 @@ pip install -r requirements.txt
 4 Run the system
 
 python backend/main.py
+
+## System Architecture
+
+![Architecture](architecture.png)
